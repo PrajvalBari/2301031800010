@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About Us - AI Based Coding Tutor</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fff;
+      margin: 40px;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: auto;
+    }
+
+    h1 {
+      font-size: 28px;
+      margin-bottom: 20px;
+    }
+
+    p {
+      margin-bottom: 20px;
+    }
+
+    ul {
+      list-style-type: disc;
+      padding-left: 20px;
+    }
+
+    li {
+      margin-bottom: 12px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>About Us</h1>
+    <p>
+      Welcome to AI Based Coding Tutor, your personal AI-powered coding mentor!
+      Our mission is to make learning to code accessible, personalized, and
+      effective for everyone, whether you're a beginner taking your first steps
+      or an experienced developer aiming to level up your skills.
+    </p>
+    <p>
+      At the core of AI Based Coding Tutor, is cutting-edge artificial intelligence
+      designed to mimic the guidance of a real-life tutor. We provide:
+    </p>
+    <ul>
+      <li>
+        <strong>Personalized Learning Paths:</strong> Our AI adapts to your pace,
+        skill level, and goals, ensuring you learn efficiently without feeling
+        overwhelmed.
+      </li>
+      <li>
+        <strong>Instant Feedback:</strong> Receive real-time feedback on your code
+        to identify mistakes and improve faster.
+      </li>
+      <li>
+        <strong>Interactive Challenges:</strong> Build hands-on projects, solve
+        algorithmic challenges, and solidify your understanding through practical
+        learning.
+      </li>
+    </ul>
+  </div>
+</body>
+</html>

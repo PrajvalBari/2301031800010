@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AI Coding Tutor - Exercises</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: white;
+      color: #000;
+      padding: 2rem;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: auto;
+    }
+
+    h2 {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+
+    .exercise {
+      margin-bottom: 2rem;
+    }
+
+    .example-output {
+      background-color: #ccc;
+      padding: 1rem;
+      border-radius: 10px;
+      margin-top: 0.5rem;
+      color: olive;
+      font-weight: bold;
+    }
+
+    .dashboard-button {
+      position: fixed;
+      top: 10px;
+      right: 10px;
+      background-color: black;
+      color: white;
+      padding: 0.5rem 1rem;
+      border-radius: 10px;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <a href="#" class="dashboard-button">Click here for dashboard</a>
+  <div class="container">
+    <h2>AI Based Coding Tutor</h2>
+
+    <div class="exercise">
+      <h3>1. Basics of Variables and Input</h3>
+      <p><strong>Question:</strong> Write a Python program to ask the user for their name and print a greeting.</p>
+      <p><strong>Example Output:</strong></p>
+      <div class="example-output">
+        Enter your name : Prajval<br />
+        Hello, Prajval !
+      </div>
+    </div>
+
+    <div class="exercise">
+      <h3>2. Even or Odd</h3>
+      <p><strong>Question:</strong> Write a Python program to check if a number is even or odd.</p>
+      <p><strong>Hint:</strong> Use the modulus operator %.</p>
+    </div>
+
+    <div class="exercise">
+      <h3>3. Sum of Two Numbers</h3>
+      <p><strong>Question:</strong> Write a program that takes two numbers as input and prints their sum.</p>
+      <p><strong>Example Output:</strong></p>
+      <div class="example-output">
+        Enter first number: 10<br />
+        Enter second number: 20<br />
+        The sum is: 30
+      </div>
+    </div>
+  </div>
+</body>
+</html>
